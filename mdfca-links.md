@@ -7,11 +7,3 @@ Quick link to this page: https://aka.ms/mdfca-links
 [Security community, webinars](http://aka.ms/securitycommunity)   
 [Microsoft Defender for Cloud Apps Ninja Training](https://aka.ms/mcasninja)
 
-
-## Outils
-[Microsoft Defender for Identity Sizing Tool](https://aka.ms/aatpsizingtool/)  
-
-
-## Outils
-[Microsoft Defender for Identity Sizing Tool](https://aka.ms/aatpsizingtool/)  
-[Auditing Tool](https://aka.ms/aatpauditing/)
