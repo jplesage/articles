@@ -1,6 +1,6 @@
 # Azure Active Directory links
 
-Quick link to this page: https://aka.ms/aad-links
+Quick link to this page: https://aka.ms/azuread-links
 
 ## General
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://aad.portal.azure.com/)  
