@@ -8,3 +8,5 @@ Article and reference links
 * [Zero Trust useful links](zt-links.md)
 * [Microsoft Sentinel useful links](https://aka.ms/sentinel-links/)
 * [Microsoft Defender for Cloud useful links](https://aka.ms/mdc-links/)
+* [Microsoft Lighthouse useful links](https://aka.ms/lighthouse-links)
+* [Microsoft Information Protection & Governance useful links](https://aka.ms/ipg-links)
