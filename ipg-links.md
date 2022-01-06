@@ -21,7 +21,8 @@ Quick link to this page: https://aka.ms/ipg-links
 [Yammer AskIPTeam](https://www.yammer.com/askipteam) | 
 [Q&A](https://aka.ms/AIPQA) |
 [StackOverflow](https://stackoverflow.com/questions/tagged/microsoft-information-protection)  
-[MIP Preview Program](https://aka.ms/mip-preview)  
+[MIP Private Preview Program](https://aka.ms/mip-preview)  
+[Endpoint DLP Private Preview](https://aka.ms/MIPC/EndpointDLP-PreviewRing)  
 [Podcast Voices of DataProtection](https://aka.ms/voicesofdataprotection)  
 [MIPcomp CXE - The Mavi News](https://www.youtube.com/channel/UCvkbcwynUv3ByZQaLl7PAlA)
 

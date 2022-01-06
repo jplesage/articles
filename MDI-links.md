@@ -7,8 +7,11 @@ Quick link to this page: https://aka.ms/mdi-links
 [Security community, webinars](http://aka.ms/securitycommunity)   
 [Microsoft Defender for Identity Ninja Training](https://aka.ms/mdininja) 
 
-## Howto
+## Tips and Tricks
 [Investigate with MDI](https://www.linkedin.com/pulse/article-1-tips-tricks-investigate-microsoft-defender-pasquier-ceh/)  
+[Deploy Microsoft Defender for Identity (gMSA Accounts)](https://www.linkedin.com/pulse/article-2-tips-tricks-deploy-microsoft-defender-identity-stevic/)  
+[Deploy Microsoft Defender for Identity (MDI)](https://www.linkedin.com/pulse/article-3-tips-tricks-deploy-microsoft-defender-mdi-pasquier-ceh/)  
+
 
 ## Tools
 [Microsoft Defender for Identity Sizing Tool](https://aka.ms/aatpsizingtool/)  

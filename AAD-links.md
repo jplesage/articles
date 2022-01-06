@@ -17,6 +17,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [Conditional Access as Code](https://aka.ms/caascode) | 
 [Conditional Access APIs](https://aka.ms/AzureAD_CA_APIS)  
 [DCToolbox](https://github.com/DanielChronlund/DCToolbox) | [Azure AD Conditional Access backup and restore with DCToolbox](https://youtu.be/kyW4L5XMieo)  
+[Azure AD Exporter](https://github.com/microsoft/azureadexporter)   
 
 
 
