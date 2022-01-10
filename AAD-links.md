@@ -3,8 +3,11 @@
 Quick link to this page: https://aka.ms/azuread-links
 
 ## General
-[Doc](https://docs.microsoft.com/en-us/azure/active-directory/) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://aad.portal.azure.com/)  
-[Security community, webinars](http://aka.ms/securitycommunity)
+[Doc](https://aka.ms/azureaddocs) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://aka.ms/azureadblog) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://aad.portal.azure.com/)  
+[Security community, webinars](http://aka.ms/securitycommunity)  
+[Stack Overflow](https://aka.ms/so/aad)  
+[Identity Youtube](https://aka.ms/identityyoutube)  
+
 
 ## Good to know
 [Multi Tenant User Management](http://aka.ms/multi-tenant-users/)  
@@ -18,6 +21,8 @@ Quick link to this page: https://aka.ms/azuread-links
 [Conditional Access APIs](https://aka.ms/AzureAD_CA_APIS)  
 [DCToolbox](https://github.com/DanielChronlund/DCToolbox) | [Azure AD Conditional Access backup and restore with DCToolbox](https://youtu.be/kyW4L5XMieo)  
 [Azure AD Exporter](https://github.com/microsoft/azureadexporter)   
+[ADFS Help Online Tools](https://adfshelp.microsoft.com/Tools/ShowTools)  
+[jwt token decoder](https://jwt.ms)  
 
 
 

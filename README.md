@@ -9,4 +9,5 @@ Article and reference links
 * [Microsoft Sentinel useful links](https://aka.ms/sentinel-links/)
 * [Microsoft Defender for Cloud useful links](https://aka.ms/mdc-links/)
 * [Microsoft Lighthouse useful links](https://aka.ms/lighthouse-links)
+* [Microsoft Bastion useful links](https://aka.ms/bastion-links)  
 * [Microsoft Information Protection & Governance useful links](https://aka.ms/ipg-links)
