@@ -23,6 +23,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [Azure AD Exporter](https://github.com/microsoft/azureadexporter)   
 [ADFS Help Online Tools](https://adfshelp.microsoft.com/Tools/ShowTools)  
 [jwt token decoder](https://jwt.ms)  
+[SAML Toolkit for Azure AD](https://samltoolkit.azurewebsites.net/)  
 
 
 
