@@ -33,4 +33,7 @@ Quick link to this page: https://aka.ms/ipg-links
 [Azure Sentinel Anomalies Simulator](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-azure-sentinel-anomalies-simulator/ba-p/2738393) 
 
 ## Advanced eDiscovery
-[Advanced eDiscovery Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-365-advanced-ediscovery-ninja/ba-p/2793108) 
+[Advanced eDiscovery Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-365-advanced-ediscovery-ninja/ba-p/2793108)  
+
+## Compliance
+[Microsoft Products and Services Data Protection Addendum (DPA)](https://aka.ms/DPA)
