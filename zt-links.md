@@ -7,17 +7,21 @@ Quick link to this page: https://aka.ms/zt-links
 [Doc](https://aka.ms/ZTguide) | [Blog](https://www.microsoft.com/security/blog/zero-trust/)   
 [Embrace proactive security with Zero Trust](https://aka.ms/zerotrust)  
 [Implementing a Zero Trust security model at Microsoft](https://www.microsoft.com/en-us/insidetrack/implementing-a-zero-trust-security-model-at-microsoft/) 
+[Evolving Zero Trust](https://aka.ms/evolving-Zero-Trust)  
 [Zero Trust Business Plan](https://aka.ms/ZTbizplan)  
 [Initiating a Zero Trust transformation project](https://aka.ms/Zero-Trust-Guide)  
 [Zero Trust e-Book](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3YnRL)  
 [10 tips for Enabling Zero Trust e-Book](https://discover.microsoft.com/10-tips-for-enabling-zero-trust-ebook/)  
-[Microsoft Zero Trust Maturity Model](https://download.microsoft.com/download/f/9/2/f92129bc-0d6e-4b8e-a47b-288432bae68e/Microsoft%20Zero%20Trust%20Maturity%20Model-%20Oct%202019.pdf)  
+[Microsoft Zero Trust Maturity Model](https://aka.ms/Zero-Trust-maturity-model)  
 [CISO Workshop Zero Trust Module](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/ciso-workshop-module-3)  
 [La Tech au carré (french)](https://aka.ms/latechaucarre)  
 [Traditional perimeter-based network defense is obsolete—transform to a Zero Trust model](https://www.microsoft.com/security/blog/?p=89995)  
 [Zero Trust Strategy – What Good Looks Like](https://www.microsoft.com/security/blog/2019/11/11/zero-trust-strategy-what-good-looks-like/)  
 [Microsoft 365 Zero Trust deployment plan](https://docs.microsoft.com/en-us/microsoft-365/security/microsoft-365-zero-trust)  
 [Zero Trust Architecture (NIST)](https://www.nist.gov/publications/zero-trust-architecture)  
+[Zero Trust Maturity Model (CISA Cybersecurity & Infrastructure Security Agency)](https://www.cisa.gov/publication/zero-trust-maturity-model)  
+[Zero Trust Maturity Assessment](https://aka.ms/Zero-Trust-Maturity-assessment)  
+
 
 
 
