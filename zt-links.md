@@ -17,6 +17,7 @@ Quick link to this page: https://aka.ms/zt-links
 [Traditional perimeter-based network defense is obsolete—transform to a Zero Trust model](https://www.microsoft.com/security/blog/?p=89995)  
 [Zero Trust Strategy – What Good Looks Like](https://www.microsoft.com/security/blog/2019/11/11/zero-trust-strategy-what-good-looks-like/)  
 [Microsoft 365 Zero Trust deployment plan](https://docs.microsoft.com/en-us/microsoft-365/security/microsoft-365-zero-trust)  
+[Zero Trust Architecture (NIST)](https://www.nist.gov/publications/zero-trust-architecture)  
 
 
 
