@@ -38,3 +38,4 @@ Quick link to this page: https://aka.ms/azuread-links
 [5 guiding principles](https://www.microsoft.com/security/blog/2021/10/06/microsofts-5-guiding-principles-for-decentralized-identities/)  
 [Samples](https://github.com/Azure-Samples/active-directory-verifiable-credentials-dotnet/)  
 [Demo application](https://aka.ms/vcdemo/)  
+[Video Complete Setup Walk-through](https://youtu.be/8jqjHjQo-3c)  
