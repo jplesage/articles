@@ -22,6 +22,7 @@ Quick link to this page: https://aka.ms/zt-links
 [Zero Trust Architecture (NIST)](https://www.nist.gov/publications/zero-trust-architecture)  
 [Zero Trust Maturity Model (CISA Cybersecurity & Infrastructure Security Agency)](https://www.cisa.gov/publication/zero-trust-maturity-model)  
 [Zero Trust Maturity Assessment](https://aka.ms/Zero-Trust-Maturity-assessment)  
+[Livre blanc GIGREF : Vers une philosophie Zero Trust](https://www.cigref.fr/vers-une-philosophie-zero-trust-une-rupture-dans-la-continuite-pour-la-securite-des-applications)
 
 
 
