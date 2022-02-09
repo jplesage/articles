@@ -4,7 +4,8 @@ Quick link to this page: https://aka.ms/zt-links
 
 
 ## General
-[Doc](https://aka.ms/ZTguide) | [Blog](https://www.microsoft.com/security/blog/zero-trust/)   
+[Doc](https://aka.ms/ZTguide) | [Blog](https://www.microsoft.com/security/blog/zero-trust/)  
+[Microsoft Zero Trust solutions Forrester study](https://www.microsoft.com/security/blog/2022/01/12/microsoft-zero-trust-solutions-deliver-92-percent-return-on-investment-says-new-forrester-study/)  
 [Embrace proactive security with Zero Trust](https://aka.ms/zerotrust)  
 [Implementing a Zero Trust security model at Microsoft](https://www.microsoft.com/en-us/insidetrack/implementing-a-zero-trust-security-model-at-microsoft/) 
 [Evolving Zero Trust](https://aka.ms/evolving-Zero-Trust)  

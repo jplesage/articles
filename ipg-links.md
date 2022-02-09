@@ -36,4 +36,8 @@ Quick link to this page: https://aka.ms/ipg-links
 [Advanced eDiscovery Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-365-advanced-ediscovery-ninja/ba-p/2793108)  
 
 ## Compliance
-[Microsoft Products and Services Data Protection Addendum (DPA)](https://aka.ms/DPA)
+[Microsoft Products and Services Data Protection Addendum (DPA)](https://aka.ms/DPA)  
+[Microsoft Compliance Offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home)  
+[Azure Compliance Offerings](https://docs.microsoft.com/en-us/azure/compliance/offerings/)  
+[Trust Center](https://www.microsoft.com/fr-fr/trust-center/compliance/compliance-overview)  
+[Service Trust Portal](https://servicetrust.microsoft.com/)  
