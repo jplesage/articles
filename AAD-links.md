@@ -25,6 +25,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [ADFS Help Online Tools](https://adfshelp.microsoft.com/Tools/ShowTools)  
 [jwt token decoder](https://jwt.ms)  
 [SAML Toolkit for Azure AD](https://samltoolkit.azurewebsites.net/)  
+[Azure AD Incident and Response PowerShell Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)  
 
 
 
