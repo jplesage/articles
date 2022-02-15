@@ -30,7 +30,8 @@ Quick link to this page: https://aka.ms/ipg-links
 
 ## Tools
 [RMS Support Tool](https://aka.ms/RMS_Support_Tool/Latest)  
-[Azure Sentinel Anomalies Simulator](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-azure-sentinel-anomalies-simulator/ba-p/2738393) 
+[Azure Sentinel Anomalies Simulator](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-azure-sentinel-anomalies-simulator/ba-p/2738393)  
+[Regex 101](https://regex101.com/)  
 
 ## Advanced eDiscovery
 [Advanced eDiscovery Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/become-a-microsoft-365-advanced-ediscovery-ninja/ba-p/2793108)  
