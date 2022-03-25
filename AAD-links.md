@@ -14,7 +14,8 @@ Quick link to this page: https://aka.ms/azuread-links
 [Multi Tenant User Management](http://aka.ms/multi-tenant-users/)  
 [Building resilience into identity and access management with Azure Active Directory](https://aka.ms/resilientaad/)  
 [Security Operation Guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction/)  
-[Securing Azure environments with Azure Active Directory](https://azure.microsoft.com/en-us/resources/securing-azure-environments-with-azure-active-directory/)
+[Securing Azure environments with Azure Active Directory](https://azure.microsoft.com/en-us/resources/securing-azure-environments-with-azure-active-directory/)  
+[Azure AD Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)  
 
 ## Tools
 [Azure Active Directory Assessment Tools](https://aka.ms/AzureADAssessmentTools/)  
