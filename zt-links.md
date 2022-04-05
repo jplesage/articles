@@ -39,4 +39,4 @@ webinar | video | deck |
 | [TECH AU CARRE] Initier un projet Zero Trust - partie 1 | [YouTube](https://youtu.be/miLTgmHUIDk) | |
 | [TECH AU CARRE] Initier un projet Zero Trust - partie 2 | [YouTube](https://youtu.be/ofkja2kslpI) | |
 | Zero Trust: Security Through a Clearer Lens session | [Video](https://onedrive.live.com/?authkey=%21AMhTvs0cQ18eMCU&cid=66C31D2DBF8E0F71&id=66C31D2DBF8E0F71%21643&parId=66C31D2DBF8E0F71%21633&o=OneUp) | [deck](https://onedrive.live.com/?authkey=%21ADasNFxVKE6xm8M&cid=66C31D2DBF8E0F71&id=66C31D2DBF8E0F71%21677&parId=66C31D2DBF8E0F71%21633&o=OneUp) |
-
+| Mise en œuvre de la sécurité Zero Trust - Série Essentials | [YouTube](https://aka.ms/ZeroTrustMechanics) |
