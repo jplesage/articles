@@ -12,6 +12,7 @@ Quick link to this page: https://aka.ms/mdi-links
 [Deploy Microsoft Defender for Identity (gMSA Accounts)](https://www.linkedin.com/pulse/article-2-tips-tricks-deploy-microsoft-defender-identity-stevic/)  
 [Deploy Microsoft Defender for Identity (MDI)](https://www.linkedin.com/pulse/article-3-tips-tricks-deploy-microsoft-defender-mdi-pasquier-ceh/)  
 [Deploy Microsoft Defender for Identity (Configure and test MDI backend Connectivity)](https://www.linkedin.com/pulse/article-4-tips-tricks-deploy-microsoft-defender-identity-stevic/)  
+[Tips & Tricks #Investigate with Microsoft Defender for Identity ](https://github.com/DanielpFR/MDI)
 
 
 ## Tools
