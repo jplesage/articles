@@ -34,6 +34,9 @@ Quick link to this page: https://aka.ms/azuread-links
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/) | [Portal](https://aka.ms/PIM/)  
 [Securing Privileged Access](https://aka.ms/spa) 
 
+## Identity Governance
+[Doc](https://docs.microsoft.com/en-us/azure/active-directory/governance/)  |  [Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/make-azure-ad-identity-governance-work-for-you/ba-p/2810643)  
+
 ## Verifiable Credentials
 [Doc](https://aka.ms/vcpreview/)  | [Github](https://github.com/microsoft/Decentralized-Identity-and-Verifiable-Credentials/)  | [Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-basics-of-decentralized-identity/ba-p/3071980)  
 [White Paper](https://aka.ms/didwhitepaper/)  
