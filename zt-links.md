@@ -40,3 +40,4 @@ webinar | video | deck |
 | [TECH AU CARRE] Initier un projet Zero Trust - partie 2 | [YouTube](https://youtu.be/ofkja2kslpI) | |
 | Zero Trust: Security Through a Clearer Lens session | [Video](https://onedrive.live.com/?authkey=%21AMhTvs0cQ18eMCU&cid=66C31D2DBF8E0F71&id=66C31D2DBF8E0F71%21643&parId=66C31D2DBF8E0F71%21633&o=OneUp) | [deck](https://onedrive.live.com/?authkey=%21ADasNFxVKE6xm8M&cid=66C31D2DBF8E0F71&id=66C31D2DBF8E0F71%21677&parId=66C31D2DBF8E0F71%21633&o=OneUp) |
 | Mise en œuvre de la sécurité Zero Trust - Série Essentials | [YouTube](https://aka.ms/ZeroTrustMechanics) |
+| Les bonnes pratiques de sécurité appliquées au Zero Trust chez Microsoft | [Webinar](https://info.microsoft.com/FR-MSDAT-WBNR-FY22-09Sep-21-Microsofts-Zero-Trust-Security-Best-Practices-SRDEM80802_LP02-On-Demand-Registration---Form-in-Body.html?wt.mc_id=AID728462_QSG_285130) |
