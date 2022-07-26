@@ -7,6 +7,8 @@ Quick link to this page: https://aka.ms/mdi-links
 [Security community, webinars](http://aka.ms/securitycommunity)   
 [Microsoft Defender for Identity Ninja Training](https://aka.ms/mdininja)  
 [Active Directory Kill Chain Attack & Defense – A Complete Guide & Tools](https://cybersecuritynews.com/active-directory-checklist/)  
+[Alerts](https://aka.ms/mdialerts)  
+
 
 ## Tips and Tricks
 [Investigate with MDI](https://www.linkedin.com/pulse/article-1-tips-tricks-investigate-microsoft-defender-pasquier-ceh/)  
