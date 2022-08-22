@@ -26,8 +26,9 @@ Quick link to this page: https://aka.ms/azuread-links
 [ADFS Help Online Tools](https://adfshelp.microsoft.com/Tools/ShowTools)  
 [jwt token decoder](https://jwt.ms)  
 [SAML Toolkit for Azure AD](https://samltoolkit.azurewebsites.net/)  
-[Azure AD Incident and Response PowerShell Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)  
-
+[Azure AD Incident and Response PowerShell Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)   
+[AAD Internals Powershell module](http://o365blog.com/aadinternals/)  
+[Token Tactics v2](https://github.com/f-bader/TokenTacticsV2)  
 
 
 ## Privileged Identity Management
