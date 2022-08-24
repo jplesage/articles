@@ -7,6 +7,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [Security community, webinars](http://aka.ms/securitycommunity)  
 [Stack Overflow](https://aka.ms/so/aad)  
 [Identity Youtube](https://aka.ms/identityyoutube)  
+[Azure AD Specific Content Youtube](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)   
 [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)  
 
 
