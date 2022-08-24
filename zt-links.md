@@ -24,6 +24,7 @@ Quick link to this page: https://aka.ms/zt-links
 [Zero Trust Maturity Assessment](https://aka.ms/Zero-Trust-Maturity-assessment)  
 [Questionnaire de maturité Zero Trust](https://aka.ms/Zero-Trust-Maturity-Questionnaire)  
 [Livre blanc GIGREF : Vers une philosophie Zero Trust](https://www.cigref.fr/vers-une-philosophie-zero-trust-une-rupture-dans-la-continuite-pour-la-securite-des-applications)
+[Zero Trust Mindmap](https://github.com/JadKaraki/M365ZeroTrust)   
 
 
 
