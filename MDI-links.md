@@ -21,7 +21,8 @@ Quick link to this page: https://aka.ms/mdi-links
 
 ## Tools
 [Microsoft Defender for Identity Sizing Tool](https://aka.ms/aatpsizingtool/)  
-[Auditing Tool](https://aka.ms/aatpauditing/)
+[Auditing Tool](https://aka.ms/aatpauditing/)  
+[MDI Configuration Checker (non Microsoft)](https://github.com/thalpius/Microsoft-Defender-for-Identity-Configuration-Checker)
 
 ## Active Directory Security
 [Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)   
