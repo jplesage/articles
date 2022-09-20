@@ -39,6 +39,10 @@ Quick link to this page: https://aka.ms/azuread-links
 ## Identity Governance
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/governance/)  |  [Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/make-azure-ad-identity-governance-work-for-you/ba-p/2810643)  
 
+## Azure Active Directory B2C
+[Doc](https://learn.microsoft.com/en-us/azure/active-directory-b2c/) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) | [GitHub](https://github.com/azure-ad-b2c/samples)
+
+
 ## Verifiable Credentials
 [Doc](https://aka.ms/vcpreview/)  | [Github](https://github.com/microsoft/Decentralized-Identity-and-Verifiable-Credentials/)  | [Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-basics-of-decentralized-identity/ba-p/3071980)  
 [White Paper](https://aka.ms/didwhitepaper/)  
