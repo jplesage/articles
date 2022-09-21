@@ -22,6 +22,7 @@ Quick link to this page: https://aka.ms/mdi-links
 ## Tools
 [Microsoft Defender for Identity Sizing Tool](https://aka.ms/aatpsizingtool/)  
 [Auditing Tool](https://aka.ms/aatpauditing/)  
+[Test MDI Readiness Script](https://github.com/microsoft/Microsoft-Defender-for-Identity/tree/main/Test-MdiReadiness)  
 [MDI Configuration Checker (non Microsoft)](https://github.com/thalpius/Microsoft-Defender-for-Identity-Configuration-Checker)   
 [MDI Playbook script](https://github.com/anfisher1967/MDI_Playbook/blob/main/nogood.txt)
 
