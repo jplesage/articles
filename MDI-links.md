@@ -3,7 +3,7 @@
 Quick link to this page: https://aka.ms/mdi-links
 
 ## General
-[Doc](https://docs.microsoft.com/en-us/defender-for-identity/) | [What's new](https://docs.microsoft.com/en-us/defender-for-identity/whats-new/) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog) | [Discussion](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bd-p/SecurityandCompliance) | [GitHub](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries)  | [Portal](https://portal.atp.azure.com/)  
+[Doc](https://docs.microsoft.com/en-us/defender-for-identity/) | [What's new](https://docs.microsoft.com/en-us/defender-for-identity/whats-new/) | [Blog](https://aka.ms/mdablogstechcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog) | [Discussion](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bd-p/SecurityandCompliance) | [GitHub](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries)  | [Portal](https://portal.atp.azure.com/)  
 [Security community, webinars](http://aka.ms/securitycommunity)   
 [Microsoft Defender for Identity Ninja Training](https://aka.ms/mdininja)  
 [Active Directory Kill Chain Attack & Defense – A Complete Guide & Tools](https://cybersecuritynews.com/active-directory-checklist/)  
