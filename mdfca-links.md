@@ -9,3 +9,5 @@ Quick link to this page: https://aka.ms/mdfca-links
 [Microsoft 365 Defender News](https://aka.ms/DefenderNews)  
 [Defender for Cloud Apps best practises](https://learn.microsoft.com/en-us/defender-cloud-apps/best-practices) 
 
+## Videos
+[App Governance](https://www.youtube.com/playlist?list=PLyhj1WZ29G66k4F_OZeMkQymRGyqHwZVp)

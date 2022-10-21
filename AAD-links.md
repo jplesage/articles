@@ -11,8 +11,9 @@ Quick link to this page: https://aka.ms/azuread-links
 [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)  
 
 
+
 ## Good to know   
-[Azure AD Shortcuts](https://github.com/microsoft/aka#readme)  
+[Azure AD Shortcuts](http://aka.ms/ad/list)  
 [Multi Tenant User Management](http://aka.ms/multi-tenant-users/)  
 [Building resilience into identity and access management with Azure Active Directory](https://aka.ms/resilientaad/)  
 [Security Operation Guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction/)  
