@@ -26,7 +26,8 @@ Quick link to this page: https://aka.ms/ipg-links
 [Podcast Voices of DataProtection](https://aka.ms/voicesofdataprotection)  
 [MIPcomp CXE - The Mavi News](https://www.youtube.com/channel/UCvkbcwynUv3ByZQaLl7PAlA)
 
-
+## Microsoft Purview DLP
+[DLP Ninja Training](https://aka.ms/DLPNinja)
 
 ## Tools
 [RMS Support Tool](https://aka.ms/RMS_Support_Tool/Latest)  

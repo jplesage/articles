@@ -25,7 +25,8 @@ Quick link to this page: https://aka.ms/mdi-links
 [Auditing Tool](https://aka.ms/aatpauditing/)  
 [Test MDI Readiness Script](https://github.com/microsoft/Microsoft-Defender-for-Identity/tree/main/Test-MdiReadiness)  
 [MDI Configuration Checker (non Microsoft)](https://github.com/thalpius/Microsoft-Defender-for-Identity-Configuration-Checker)   
-[MDI Playbook script](https://github.com/anfisher1967/MDI_Playbook/blob/main/nogood.txt)
+[MDI Playbook script](https://github.com/anfisher1967/MDI_Playbook/blob/main/nogood.txt)  
+[VMWare fix](https://learn.microsoft.com/en-us/defender-for-identity/troubleshooting-known-issues#vmware-virtual-machine-sensor-issue)
 
 ## Active Directory Security
 [Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)   
