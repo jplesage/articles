@@ -55,4 +55,5 @@ Quick link to this page: https://aka.ms/azuread-links
 [Samples](https://github.com/Azure-Samples/active-directory-verifiable-credentials-dotnet/)  
 [Demo application](https://aka.ms/vcdemo/)  
 [Video Complete Setup Walk-through](https://youtu.be/8jqjHjQo-3c)  
-[Setup example](https://derkvanderwoude.medium.com/microsoft-entra-verified-id-sample-setup-and-deployment-dd65c5508b4f)
+[Setup example](https://derkvanderwoude.medium.com/microsoft-entra-verified-id-sample-setup-and-deployment-dd65c5508b4f)  
+[John Savill Video](https://youtu.be/BxLSSH_EHjo)  
