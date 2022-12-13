@@ -1,6 +1,6 @@
 # Acronyms
 
-Quick link to this page: https://aka.ms/MSAcronyms
+Quick link to this page: https://aka.ms/MSAcronyms  
 Might be useful for the ones who want to take [SC-900](https://learn.microsoft.com/en-us/certifications/exams/sc-900) exam
 
 ## Products
