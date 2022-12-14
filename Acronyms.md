@@ -23,13 +23,24 @@ Acronym | Meaning | Link |
 ## Security
 Acronym | Meaning | Link |
 | ------- | ----- | ---- |
+| ASR | Attack Surface Reduction | [What is](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction) |  | 
+| BYOK | Bring Your Own Key | [What is](https://azure.microsoft.com/en-us/updates/akv-byok-ga) |  | 
 | CASB | Cloud Access Security Broker | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-a-cloud-access-security-broker-casb) |  | 
 | CSPM | Cloud Security Posture Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-cspm) |  |
 | CWPP | Cloud Workload Protection Platform | [What is](https://www.gartner.com/reviews/market/cloud-workload-protection-platforms) |  | 
 | DDoS | Distributed Denial-of-Service | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-a-ddos-attack) |  | 
+| DLP | Data Loss Prevention | [What is](https://learn.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp) |  |
 | EDR | Endpoint Detection and Response | [What is](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-endpoint-detection-response) |  | 
+| FQDN | Fully Qualified Domain Name | [What is](https://learn.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules) |  |
 | IAM | Identity and Access Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam) |  | 
+| JIT | Just-In-Time (VM Access) | [What is](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview) |  |
+| MFA / 2FA | Multi-Factor Authentication | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-two-factor-authentication-2fa) |  | 
+| NSG | Network Security Group | [What is](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) |  |
 | PAM | Privileged Access Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-privileged-access-management-pam) |  | 
+| RBAC | Role-Based Access Control | [What is](https://learn.microsoft.com/en-us/azure/role-based-access-control/) |  | 
 | SIEM| Security Information and Event Management| [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-siem) |  | 
 | SOAR| Security Orchestration Automation and Response| [What is](https://www.gartner.com/en/information-technology/glossary/security-orchestration-automation-response-soar) |  | 
+| SSO| Single Sign-On| [What is](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on) |  | 
+| VNet| Virtual Network| [What is](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview) |  | 
+| WAF| Web Application Firewall| [What is](https://learn.microsoft.com/en-us/azure/web-application-firewall/overview) |  | 
 | XDR| Extended Detection and Response| [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-xdr) |  | 
