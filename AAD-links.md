@@ -19,7 +19,8 @@ Quick link to this page: https://aka.ms/azuread-links
 [Security Operation Guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction/)  
 [Securing Azure environments with Azure Active Directory](https://azure.microsoft.com/en-us/resources/securing-azure-environments-with-azure-active-directory/)  
 [Azure AD Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)  
-[Azure AD Authentication Fundamentals by Stuart Kwan (playlist)](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)   
+[Azure AD Authentication Fundamentals by Stuart Kwan (playlist)](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)  
+[Azure Master Class - Identity (John Savill)](https://youtu.be/6Vm-h_3nKjc)   
 
 ## Tools
 [Azure Active Directory Assessment Tools](https://aka.ms/AzureADAssessmentTools/)  
