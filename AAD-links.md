@@ -34,6 +34,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [Azure AD Incident and Response PowerShell Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)   
 [AAD Internals Powershell module](https://aadinternals.com/aadinternals/)  
 [Token Tactics v2](https://github.com/f-bader/TokenTacticsV2)  
+[France Connect Connector (french initiative)](https://aka.ms/FranceConnect)  
 
 
 ## Privileged Identity Management
