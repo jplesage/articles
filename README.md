@@ -12,3 +12,4 @@ Article and reference links
 * [Microsoft Bastion useful links](https://aka.ms/bastion-links)  
 * [Microsoft Information Protection & Governance useful links](https://aka.ms/ipg-links)  
 * [Common threats useful links](https://aka.ms/threats-links)  
+[MS Acronyms](Https://aka.ms/msacronyms)
