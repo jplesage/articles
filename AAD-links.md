@@ -21,6 +21,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [Azure AD Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)  
 [Azure AD Authentication Fundamentals by Stuart Kwan (playlist)](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)  
 [Azure Master Class - Identity (John Savill)](https://youtu.be/6Vm-h_3nKjc)   
+[John Craddock Identity and Access Training](https://www.youtube.com/@john_craddock)
 
 ## Tools
 [Azure Active Directory Assessment Tools](https://aka.ms/AzureADAssessmentTools/)  
