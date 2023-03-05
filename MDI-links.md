@@ -32,3 +32,4 @@ Quick link to this page: https://aka.ms/mdi-links
 [Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)   
 [Harden AD](https://hardenad.net/)  
 [Learning (French) : Sécuriser Active Directory contre les menaces actuelles](https://www.linkedin.com/learning/microsoft-cybersecurite-securiser-active-directory-contre-les-menaces-actuelles)  
+[Total Identity Compromise: DART lessons on securing Active Directory](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-dart-lessons-on-securing-active/ba-p/3753391)  
