@@ -19,6 +19,7 @@ Quick link to this page: https://aka.ms/mdi-links
 [Tips & Tricks #Configure Microsoft Defender for Identity (Validate your Defender for Identity readiness )](https://www.linkedin.com/pulse/article-5-tips-tricks-configure-microsoft-defender-identity-stevic/)  
 [How to fully evaluate the Microsoft Defender for Identity (MDI) potential when running a pentesting](https://www.linkedin.com/pulse/how-fully-evaluate-microsoft-defender-identity-mdi-pasquier-ceh)   
 [How to Implement MDI and configure all prerequisites (non Microsoft)](https://jeffreyappel.nl/how-to-implement-defender-for-identity-and-configure-all-prerequisites/)  
+[Github Daniel Pasquier](https://github.com/DanielpFR/MDI)
 
 
 ## Tools
