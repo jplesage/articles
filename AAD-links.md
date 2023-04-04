@@ -61,3 +61,9 @@ Quick link to this page: https://aka.ms/azuread-links
 [Video Complete Setup Walk-through](https://youtu.be/8jqjHjQo-3c)  
 [Setup example](https://derkvanderwoude.medium.com/microsoft-entra-verified-id-sample-setup-and-deployment-dd65c5508b4f)  
 [John Savill Video](https://youtu.be/BxLSSH_EHjo)  
+
+
+## Entra Permissions Management
+[Doc](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/)  | [Github](https://github.com/microsoft/Decentralized-Identity-and-Verifiable-Credentials/)  | [Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity)  
+ 
+[2023 State of Cloud Permissions Risks Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW10qzO)  

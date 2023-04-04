@@ -26,6 +26,8 @@ Acronym | Meaning | Link |
 | ASR | Attack Surface Reduction | [What is](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction) |  | 
 | BYOK | Bring Your Own Key | [What is](https://azure.microsoft.com/en-us/updates/akv-byok-ga) |  | 
 | CASB | Cloud Access Security Broker | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-a-cloud-access-security-broker-casb) |  | 
+| CIEM | Cloud Infrastructure Entitlement Management | [What is](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management) |  |  
+| CNAP| Cloud Native Application Protection Platform | [What is](https://www.microsoft.com/en-us/security/blog/2023/03/22/the-next-wave-of-multicloud-security-with-microsoft-defender-for-cloud-a-cloud-native-application-protection-platform-cnapp/) |  |
 | CSPM | Cloud Security Posture Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-cspm) |  |
 | CWPP | Cloud Workload Protection Platform | [What is](https://www.gartner.com/reviews/market/cloud-workload-protection-platforms) |  | 
 | DDoS | Distributed Denial-of-Service | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-a-ddos-attack) |  | 
