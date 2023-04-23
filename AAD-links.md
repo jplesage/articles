@@ -42,7 +42,8 @@ Quick link to this page: https://aka.ms/azuread-links
 ## Privileged Identity Management
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/) | [Portal](https://aka.ms/PIM/)  
 [Securing Privileged Access](https://aka.ms/spa)  
-[Improving security by protecting elevated-privilege accounts at Microsoft](https://www.microsoft.com/insidetrack/blog/improving-security-by-protecting-elevated-privilege-accounts-at-microsoft)
+[Improving security by protecting elevated-privilege accounts at Microsoft](https://www.microsoft.com/insidetrack/blog/improving-security-by-protecting-elevated-privilege-accounts-at-microsoft)   
+[Best Practises for Azure AD roles](https://learn.microsoft.com/en-us/azure/active-directory/roles/best-practices)   
 
 ## Microsoft Entra Identity Governance
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/governance/)  |  [Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/make-azure-ad-identity-governance-work-for-you/ba-p/2810643)  
