@@ -37,3 +37,4 @@ Quick link to this page: https://aka.ms/mdi-links
 [Harden AD](https://hardenad.net/)  
 [Learning (French) : Sécuriser Active Directory contre les menaces actuelles](https://www.linkedin.com/learning/microsoft-cybersecurite-securiser-active-directory-contre-les-menaces-actuelles)  
 [Total Identity Compromise: DART lessons on securing Active Directory](https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/total-identity-compromise-dart-lessons-on-securing-active/ba-p/3753391)  
+[Advanced threat hunting within Active Directory Domain Services (Non Microsoft)](https://techcommunity.microsoft.com/t5/windows-server-for-it-pro/advanced-threat-hunting-within-active-directory-domain-services/m-p/3820214)
