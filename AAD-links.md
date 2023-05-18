@@ -37,6 +37,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [AAD Internals Powershell module](https://aadinternals.com/aadinternals/)  
 [Token Tactics v2](https://github.com/f-bader/TokenTacticsV2)  
 [France Connect Connector (french initiative)](https://aka.ms/FranceConnect)  
+[Identity Powertoys (Non Microsoft)](https://idpowertoys.com)   
 
 
 ## Privileged Identity Management
