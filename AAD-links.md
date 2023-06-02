@@ -5,7 +5,7 @@ Quick link to this page: https://aka.ms/azuread-links
 ## General
 [Doc](https://aka.ms/azureaddocs) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://aka.ms/azureadblog) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://aad.portal.azure.com/)  
 [Security community, webinars](http://aka.ms/securitycommunity)  
-[What is deprecated in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/what-is-deprecated)
+[What is deprecated in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/what-is-deprecated)  
 [Stack Overflow](https://aka.ms/so/aad)  
 [Identity Youtube](https://aka.ms/identityyoutube)  
 [Azure AD Specific Content Youtube](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)   
