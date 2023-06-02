@@ -34,7 +34,8 @@ Acronym | Meaning | Link |
 | DLP | Data Loss Prevention | [What is](https://learn.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp) |  |
 | EDR | Endpoint Detection and Response | [What is](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-endpoint-detection-response) |  | 
 | FQDN | Fully Qualified Domain Name | [What is](https://learn.microsoft.com/en-us/azure/firewall/fqdn-filtering-network-rules) |  |
-| IAM | Identity and Access Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam) |  | 
+| IAM | Identity and Access Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam) |  |  
+| ITDR | Identity Threat Detection and Response | [What is](https://www.microsoft.com/en-us/security/business/solutions/identity-threat-detection-response) |  |  
 | JEA | Just Enough Access | [What is](https://learn.microsoft.com/en-us/azure/architecture/framework/security/design-admins) |  |
 | JIT | Just-In-Time (VM Access) | [What is](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview) |  |
 | MFA / 2FA | Multi-Factor Authentication | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-two-factor-authentication-2fa) |  | 
