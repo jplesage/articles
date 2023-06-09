@@ -10,7 +10,8 @@ Quick link to this page: https://aka.ms/azuread-links
 [Identity Youtube](https://aka.ms/identityyoutube)  
 [Azure AD Specific Content Youtube](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)   
 [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)  
-[Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)
+[Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)   
+[Protecting Microsoft 365 from on-premises attacks](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/protect-m365-from-on-premises-attacks)
 
 
 
@@ -23,7 +24,8 @@ Quick link to this page: https://aka.ms/azuread-links
 [Azure AD Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)  
 [Azure AD Authentication Fundamentals by Stuart Kwan (playlist)](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)  
 [Azure Master Class - Identity (John Savill)](https://youtu.be/6Vm-h_3nKjc)   
-[John Craddock Identity and Access Training](https://www.youtube.com/@john_craddock)
+[John Craddock Identity and Access Training](https://www.youtube.com/@john_craddock)   
+
 
 ## Tools
 [Azure Active Directory Assessment Tools](https://aka.ms/AzureADAssessmentTools/)  
