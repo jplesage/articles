@@ -42,6 +42,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [France Connect Connector (french initiative)](https://aka.ms/FranceConnect)  
 [Identity Powertoys (Non Microsoft)](https://idpowertoys.com)   
 [MFA Templates](https://aka.ms/mfatemplates/strongauth)   
+[AZDetect Suite](https://github.com/microsoft/AzDetectSuite)   
 
 
 ## Privileged Identity Management
