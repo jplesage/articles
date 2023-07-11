@@ -1,7 +1,8 @@
 # Acronyms
 
 Quick link to this page: https://aka.ms/MSAcronyms  
-Might be useful for the ones who want to take [SC-900](https://learn.microsoft.com/en-us/certifications/exams/sc-900) exam
+Might be useful for the ones who want to take [SC-900](https://learn.microsoft.com/en-us/certifications/exams/sc-900) exam    
+For a more complete list you can check [Matt Soseman Microsoft Acronyms Glossary](https://thepartnermasters.com/blog/microsoft-acronyms-glossary)   
 
 ## Products
 Acronym | Meaning | Link |
