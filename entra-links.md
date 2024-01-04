@@ -75,4 +75,4 @@ Quick link to this page: https://aka.ms/entra-links
 ## Microsoft Entra Permissions Management
 [Doc](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/)  | [Github](https://github.com/microsoft/Decentralized-Identity-and-Verifiable-Credentials/)  | [Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity)  
  
-[2023 State of Cloud Permissions Risks Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW10qzO)  
+[2023 State of Cloud Permissions Risks Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW10qzO)
