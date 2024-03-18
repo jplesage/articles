@@ -2,7 +2,7 @@
 
 Article and reference links
 
-* [Azure Active Directory useful links](AAD-links.md)
+* [ENtra ID useful links](AAD-links.md)
 * [Microsoft Defender for Identity useful links](MDI-links.md)
 * [Microsoft Defender for Cloud Apps useful links](mdfca-links.md)
 * [Zero Trust useful links](zt-links.md)
