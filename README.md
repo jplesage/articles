@@ -2,7 +2,7 @@
 
 Article and reference links
 
-* [ENtra ID useful links](AAD-links.md)
+* [Entra ID useful links](AAD-links.md)
 * [Microsoft Defender for Identity useful links](MDI-links.md)
 * [Microsoft Defender for Cloud Apps useful links](mdfca-links.md)
 * [Zero Trust useful links](zt-links.md)
@@ -12,4 +12,4 @@ Article and reference links
 * [Microsoft Bastion useful links](https://aka.ms/bastion-links)  
 * [Microsoft Information Protection & Governance useful links](https://aka.ms/ipg-links)  
 * [Common threats useful links](https://aka.ms/threats-links)  
-[MS Acronyms](Https://aka.ms/msacronyms)
+* [MS Acronyms](Https://aka.ms/msacronyms)
