@@ -1,4 +1,4 @@
-# Azure Active Directory links
+# Entra ID links
 
 Quick link to this page: https://aka.ms/azuread-links
 
