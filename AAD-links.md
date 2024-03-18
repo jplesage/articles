@@ -7,7 +7,8 @@ Quick link to this page: https://aka.ms/azuread-links
 [Security community, webinars](http://aka.ms/securitycommunity)  
 [What is deprecated in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/what-is-deprecated)  
 [Stack Overflow](https://aka.ms/so/aad)  
-[Identity Youtube](https://aka.ms/identityyoutube)  
+[Identity Youtube](https://aka.ms/identityyoutube)     
+[Awesome Entra] (https://aka.ms/awesome-entra)   
 [Azure AD Specific Content Youtube](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)   
 [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)  
 [Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)   
@@ -44,7 +45,9 @@ Quick link to this page: https://aka.ms/azuread-links
 [MFA Templates](https://aka.ms/mfatemplates/strongauth)   
 [AZDetect Suite](https://github.com/microsoft/AzDetectSuite)   
 [Azure AD Security Configuration Analyzer](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
-[Identity PowerToys](https://idpowertoys.merill.net/)   
+[Identity PowerToys](https://idpowertoys.merill.net/)     
+[Error codes](https://login.microsoftonline.com/error)   
+[Cloud Group Analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer)   
 
 
 ## Privileged Identity Management
