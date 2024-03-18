@@ -7,7 +7,7 @@ For a more complete list you can check [Matt Soseman Microsoft Acronyms Glossary
 ## Products
 Acronym | Meaning | Link |
 | ------- | ----- | ---- |
-| AAD | Azure Active Directory | [What is](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) |  | 
+| AAD | Azure Active Directory ((Entra ID)) | [What is](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) |  | 
 | AADDS | Azure Active Directory Domain Services | [What is](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview) |  | 
 | ADDS | Active Directory Domain Services | [What is](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) |  | 
 | ADFS | Active Directory Federation Services | [What is](https://learn.microsoft.com/en-us/windows-server/identity/ad-fs/ad-fs-overview) |  | 
