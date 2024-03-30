@@ -26,7 +26,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [Azure AD Authentication Fundamentals by Stuart Kwan (playlist)](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)  
 [Azure Master Class - Identity (John Savill)](https://youtu.be/6Vm-h_3nKjc)   
 [John Craddock Identity and Access Training](https://www.youtube.com/@john_craddock)   
-[Microsoft Entra Top content creators to follow](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368)   
+[Microsoft Entra top content creators to follow](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368)   
    
 
 ## Tools
