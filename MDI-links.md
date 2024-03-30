@@ -8,6 +8,7 @@ Quick link to this page: https://aka.ms/mdi-links
 [Microsoft Defender for Identity Ninja Training](https://aka.ms/mdininja)  
 [Active Directory Kill Chain Attack & Defense – A Complete Guide & Tools](https://cybersecuritynews.com/active-directory-checklist/)  
 [Alerts](https://aka.ms/mdialerts)  
+[How Microsoft Incident Response and Microsoft Defender for Identity work together to detect and respond to cyberthreats](https://www.microsoft.com/en-us/security/blog/2024/03/21/how-microsoft-incident-response-and-microsoft-defender-for-identity-work-together-to-detect-and-respond-to-cyberthreats/)    
 
 
 ## Tips and Tricks
