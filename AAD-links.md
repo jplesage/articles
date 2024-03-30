@@ -44,7 +44,7 @@ Quick link to this page: https://aka.ms/azuread-links
 [Identity Powertoys (Non Microsoft)](https://idpowertoys.com)   
 [MFA Templates](https://aka.ms/mfatemplates/strongauth)   
 [AZDetect Suite](https://github.com/microsoft/AzDetectSuite)   
-[Azure AD Security Configuration Analyzer](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
+[Entra ID Security Config Analyzer (EIDSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
 [Identity PowerToys](https://idpowertoys.merill.net/)     
 [Error codes](https://login.microsoftonline.com/error)   
 [Cloud Group Analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer)   
