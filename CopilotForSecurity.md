@@ -10,7 +10,7 @@
 
 
 ## Good to know  
-[Get the most out of Microsoft Copilot for Security with good prompt engineering](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/) 
+[Get the most out of Microsoft Copilot for Security with good prompt engineering](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)   
 [Linkedin Community](https://www.linkedin.com/groups/14345161/)   
 [Prompt library by Rod Trent](https://aka.ms/CfSPromptLibrary)   
 
