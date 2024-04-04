@@ -20,3 +20,10 @@
 
 ## Tools 
   [Prompt Buddy](https://github.com/stuartridout/promptbuddy)   
+
+
+  
+## Webinars
+webinar | video | deck |
+| ------- | ----- | ---- |
+| [Microsoft Secure Tech Accelerator] Copilot for Security: Customize your Copilot| [YouTube](https://youtu.be/i0M7WOhZMH0) | | 
