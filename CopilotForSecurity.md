@@ -14,7 +14,8 @@
 [Copilot for Security economic study](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)   
 [Create an Alert in Sentinel if someone enables Copilot for Security](https://socautomators.substack.com/p/create-an-alert-in-sentinel-if-someone)  
 [Get the most out of Microsoft Copilot for Security with good prompt engineering](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)   
-[Linkedin Community](https://www.linkedin.com/groups/14345161/)   
+[Linkedin Community](https://www.linkedin.com/groups/14345161/)  
+[Plugin development](https://github.com/SecureHats/security-copilot)  
 [Prompt library by Rod Trent](https://aka.ms/CfSPromptLibrary)  
 [Scheduling Microsoft Copilot for Security Capacities using Logic Apps](https://medium.com/@aaron.hoffmann/scheduling-microsoft-copilot-for-security-capacities-20f4b26f1999)  
 
