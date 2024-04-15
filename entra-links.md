@@ -4,47 +4,47 @@ Quick link to this page: https://aka.ms/entra-links
 
 ## General
 [Doc](https://aka.ms/azureaddocs) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://aka.ms/azureadblog) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://aad.portal.azure.com/)  
-[Security community, webinars](http://aka.ms/securitycommunity)  
-[What is deprecated in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/what-is-deprecated)  
-[Stack Overflow](https://aka.ms/so/aad)  
-[Identity Youtube](https://aka.ms/identityyoutube)  
 [Azure AD Specific Content Youtube](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)   
 [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)  
-[Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)   
+[Identity Youtube](https://aka.ms/identityyoutube)  
 [Protecting Microsoft 365 from on-premises attacks](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/protect-m365-from-on-premises-attacks)
+[Security community, webinars](http://aka.ms/securitycommunity)  
+[Stack Overflow](https://aka.ms/so/aad)  
+[What is deprecated in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/what-is-deprecated)  
+[Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)   
 
 
 
 ## Good to know   
-[Azure AD Shortcuts](http://aka.ms/ad/list)  
-[Multi Tenant User Management](http://aka.ms/multi-tenant-users/)  
-[Building resilience into identity and access management with Azure Active Directory](https://aka.ms/resilientaad/)  
-[Security Operation Guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction/)  
-[Securing Azure environments with Azure Active Directory](https://azure.microsoft.com/en-us/resources/securing-azure-environments-with-azure-active-directory/)  
 [Azure AD Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)  
 [Azure AD Authentication Fundamentals by Stuart Kwan (playlist)](https://www.youtube.com/playlist?list=PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy)  
+[Azure AD Shortcuts](http://aka.ms/ad/list)  
 [Azure Master Class - Identity (John Savill)](https://youtu.be/6Vm-h_3nKjc)   
+[Building resilience into identity and access management with Azure Active Directory](https://aka.ms/resilientaad/)  
 [John Craddock Identity and Access Training](https://www.youtube.com/@john_craddock)   
+[Multi Tenant User Management](http://aka.ms/multi-tenant-users/)  
+[Securing Azure environments with Azure Active Directory](https://azure.microsoft.com/en-us/resources/securing-azure-environments-with-azure-active-directory/)  
+[Security Operation Guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction/)  
 
 
 ## Tools
-[Azure Active Directory Assessment Tools](https://aka.ms/AzureADAssessmentTools/)  
-[Conditional Access as Code](https://aka.ms/caascode) | 
-[Conditional Access APIs](https://aka.ms/AzureAD_CA_APIS)  
-[DCToolbox](https://github.com/DanielChronlund/DCToolbox) | [Azure AD Conditional Access backup and restore with DCToolbox](https://youtu.be/kyW4L5XMieo)  
-[Azure AD Exporter](https://github.com/microsoft/azureadexporter)   
-[ADFS Help Online Tools](https://adfshelp.microsoft.com/Tools/ShowTools)  
-[jwt token decoder](https://jwt.ms)  
-[SAML Toolkit for Azure AD](https://samltoolkit.azurewebsites.net/)  
-[Azure AD Incident and Response PowerShell Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)   
 [AAD Internals Powershell module](https://aadinternals.com/aadinternals/)  
-[Token Tactics v2](https://github.com/f-bader/TokenTacticsV2)  
+[ADFS Help Online Tools](https://adfshelp.microsoft.com/Tools/ShowTools)  
+[AZDetect Suite](https://github.com/microsoft/AzDetectSuite)   
+[Azure Active Directory Assessment Tools](https://aka.ms/AzureADAssessmentTools/)  
+[Azure AD Exporter](https://github.com/microsoft/azureadexporter)   
+[Azure AD Incident and Response PowerShell Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)   
+[Azure AD Security Configuration Analyzer](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)
+[Conditional Access APIs](https://aka.ms/AzureAD_CA_APIS)  
+[Conditional Access as Code](https://aka.ms/caascode) | 
+[DCToolbox](https://github.com/DanielChronlund/DCToolbox) | [Azure AD Conditional Access backup and restore with DCToolbox](https://youtu.be/kyW4L5XMieo)  
 [France Connect Connector (french initiative)](https://aka.ms/FranceConnect)  
 [Identity Powertoys (Non Microsoft)](https://idpowertoys.com)   
+[jwt token decoder](https://jwt.ms)  
 [MFA Templates](https://aka.ms/mfatemplates/strongauth)   
-[AZDetect Suite](https://github.com/microsoft/AzDetectSuite)   
-[Azure AD Security Configuration Analyzer](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)
-
+[SAML Toolkit for Azure AD](https://samltoolkit.azurewebsites.net/)  
+[Token Tactics v2](https://github.com/f-bader/TokenTacticsV2)     
+[Use Maester to Monitor Microsoft 365 Security Settings](https://o365reports.com/2024/04/13/use-maester-to-monitor-microsoft-365-security-settings/)   
 
 ## Privileged Identity Management
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/) | [Portal](https://aka.ms/PIM/)  
