@@ -3,7 +3,7 @@
 Quick link to this page: https://aka.ms/entra-links
 
 ## General
-[Doc](https://aka.ms/azureaddocs) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://aka.ms/azureadblog) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://aad.portal.azure.com/)  
+[Doc](https://aka.ms/azureaddocs) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://aka.ms/azureadblog) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://entra.microsoft.com/)  
 [Azure AD Specific Content Youtube](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)   
 [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)  
 [Identity Youtube](https://aka.ms/identityyoutube)  
@@ -22,6 +22,7 @@ Quick link to this page: https://aka.ms/entra-links
 [Azure Master Class - Identity (John Savill)](https://youtu.be/6Vm-h_3nKjc)   
 [Building resilience into identity and access management with Azure Active Directory](https://aka.ms/resilientaad/)  
 [John Craddock Identity and Access Training](https://www.youtube.com/@john_craddock)   
+[Microsoft Entra top content creators to follow](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368)   
 [Multi Tenant User Management](http://aka.ms/multi-tenant-users/)  
 [Securing Azure environments with Azure Active Directory](https://azure.microsoft.com/en-us/resources/securing-azure-environments-with-azure-active-directory/)  
 [Security Operation Guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction/)  
@@ -34,10 +35,13 @@ Quick link to this page: https://aka.ms/entra-links
 [Azure Active Directory Assessment Tools](https://aka.ms/AzureADAssessmentTools/)  
 [Azure AD Exporter](https://github.com/microsoft/azureadexporter)   
 [Azure AD Incident and Response PowerShell Module](https://github.com/AzureAD/Azure-AD-Incident-Response-PowerShell-Module)   
-[Azure AD Security Configuration Analyzer](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)
+[Azure AD Security Configuration Analyzer](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
+[Cloud Group Analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer)   
 [Conditional Access APIs](https://aka.ms/AzureAD_CA_APIS)  
 [Conditional Access as Code](https://aka.ms/caascode) | 
 [DCToolbox](https://github.com/DanielChronlund/DCToolbox) | [Azure AD Conditional Access backup and restore with DCToolbox](https://youtu.be/kyW4L5XMieo)  
+[Entra ID Security Config Analyzer (EIDSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
+[Error codes](https://login.microsoftonline.com/error)   
 [France Connect Connector (french initiative)](https://aka.ms/FranceConnect)  
 [Identity Powertoys (Non Microsoft)](https://idpowertoys.com)   
 [jwt token decoder](https://jwt.ms)  
