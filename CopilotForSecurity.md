@@ -21,6 +21,7 @@
 [Plugin development](https://github.com/SecureHats/security-copilot)  
 [Prompt library by Rod Trent](https://aka.ms/CfSPromptLibrary)  
 [Scheduling Microsoft Copilot for Security Capacities using Logic Apps](https://medium.com/@aaron.hoffmann/scheduling-microsoft-copilot-for-security-capacities-20f4b26f1999)  
+[Scheduling the Provisioning of Capacity (SCUs) for Copilot for Security - Step-by-Step Guide](https://www.linkedin.com/pulse/scheduling-provisioning-capacity-scus-copilot-guide-pescosolido-bffef/)   
 
    
 
