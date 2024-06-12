@@ -18,6 +18,7 @@
 [Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://thoor.tech/Copilot-for-Security-deploy-and-destroy/)    
 [Get the most out of Microsoft Copilot for Security with good prompt engineering](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)   
 [Linkedin Community](https://www.linkedin.com/groups/14345161/)  
+[Microsoft Partner Playbook for Copilot for Security](https://aka.ms/CfSpartnerPlaybook)   
 [Plugin development](https://github.com/SecureHats/security-copilot)  
 [Prompt library by Rod Trent](https://aka.ms/CfSPromptLibrary)  
 [Scheduling Microsoft Copilot for Security Capacities using Logic Apps](https://medium.com/@aaron.hoffmann/scheduling-microsoft-copilot-for-security-capacities-20f4b26f1999)  
@@ -28,6 +29,11 @@
 ## Tools 
   [Prompt Buddy](https://github.com/stuartridout/promptbuddy)   
 
+## AI Security
+[Gandal by Lakera](https://gandalf.lakera.ai/)    
+[Microsoft AI Red Team](https://aka.ms/ai-red-team)   
+[Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)  
+[OpenAI Tokenizer](https://platform.openai.com/tokenizer) 
 
   
 ## Webinars
