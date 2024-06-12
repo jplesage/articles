@@ -30,7 +30,7 @@
   [Prompt Buddy](https://github.com/stuartridout/promptbuddy)   
 
 ## AI Security
-[Gandal by Lakera](https://gandalf.lakera.ai/)    
+[Gandalf by Lakera](https://gandalf.lakera.ai/)    
 [Microsoft AI Red Team](https://aka.ms/ai-red-team)   
 [Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)  
 [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 
