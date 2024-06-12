@@ -40,3 +40,4 @@
 webinar | video | deck |
 | ------- | ----- | ---- |
 | [Microsoft Secure Tech Accelerator] Copilot for Security: Customize your Copilot| [YouTube](https://youtu.be/i0M7WOhZMH0) | | 
+| TI at Machine Speed: Using MDTI in Copilot for Security | [YouTube](https://www.youtube.com/watch?v=tdZ6UivzrTQ) | | 

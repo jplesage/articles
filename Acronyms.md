@@ -27,8 +27,9 @@ Acronym | Meaning | Link |
 | ASR | Attack Surface Reduction | [What is](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction) |  | 
 | BYOK | Bring Your Own Key | [What is](https://azure.microsoft.com/en-us/updates/akv-byok-ga) |  | 
 | CASB | Cloud Access Security Broker | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-a-cloud-access-security-broker-casb) |  | 
+| CIAM | Customer Identity and Access Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-ciam) |  | 
 | CIEM | Cloud Infrastructure Entitlement Management | [What is](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management) |  |  
-| CNAP| Cloud Native Application Protection Platform | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp) |  |
+| CNAPP| Cloud Native Application Protection Platform | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp) |  |
 | CSPM | Cloud Security Posture Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-cspm) |  |
 | CWPP | Cloud Workload Protection Platform | [What is](https://www.gartner.com/reviews/market/cloud-workload-protection-platforms) |  | 
 | DDoS | Distributed Denial-of-Service | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-a-ddos-attack) |  | 
@@ -43,8 +44,10 @@ Acronym | Meaning | Link |
 | NSG | Network Security Group | [What is](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) |  |
 | PAM | Privileged Access Management | [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-privileged-access-management-pam) |  | 
 | RBAC | Role-Based Access Control | [What is](https://learn.microsoft.com/en-us/azure/role-based-access-control/) |  | 
+| SASE| Secure Access Service Edge| [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-sase) |  | 
 | SIEM| Security Information and Event Management| [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-siem) |  | 
 | SOAR| Security Orchestration Automation and Response| [What is](https://www.gartner.com/en/information-technology/glossary/security-orchestration-automation-response-soar) |  | 
+| SOC| Security Operation Center| [What is](https://www.microsoft.com/en-us/security/business/security-101/what-is-a-security-operations-center-soc) |  | 
 | SSO| Single Sign-On| [What is](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on) |  | 
 | VNet| Virtual Network| [What is](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview) |  | 
 | WAF| Web Application Firewall| [What is](https://learn.microsoft.com/en-us/azure/web-application-firewall/overview) |  | 
