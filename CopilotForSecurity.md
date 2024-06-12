@@ -30,6 +30,7 @@
   [Prompt Buddy](https://github.com/stuartridout/promptbuddy)   
 
 ## AI Security
+[Book "Not with a bug but with a sticker"](https://www.ram-shankar.com/)   
 [Gandalf by Lakera](https://gandalf.lakera.ai/)    
 [Microsoft AI Red Team](https://aka.ms/ai-red-team)   
 [Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)  
@@ -39,5 +40,6 @@
 ## Webinars
 webinar | video | deck |
 | ------- | ----- | ---- |
+| Inside AI Security with Mark Russinovich| [Build 2024](https://build.microsoft.com/en-US/sessions/d29a16d5-f9ea-4f5b-9adf-fae0bd688ff3) | [Slides](https://medius.microsoft.com/video/asset/PPT/0a42e5fa-fce8-423b-9e8f-7263d4abe8fa?referrer=Microsoft+Build+%7C+May+21-23%2C+2024+%7C+Seattle+and+Online-%2Fen-US%2Fsessions%2Fd29a16d5-f9ea-4f5b-9adf-fae0bd688ff3&mhid=build&loc=en-us) | 
 | [Microsoft Secure Tech Accelerator] Copilot for Security: Customize your Copilot| [YouTube](https://youtu.be/i0M7WOhZMH0) | | 
 | TI at Machine Speed: Using MDTI in Copilot for Security | [YouTube](https://www.youtube.com/watch?v=tdZ6UivzrTQ) | | 
