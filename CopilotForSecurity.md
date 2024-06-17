@@ -31,7 +31,8 @@
 
 ## AI Security
 [Book "Not with a bug but with a sticker"](https://www.ram-shankar.com/)   
-[Gandalf by Lakera](https://gandalf.lakera.ai/)    
+[Gandalf by Lakera](https://gandalf.lakera.ai/)   
+[GDPR and Generative AI a guide for the public sector](https://wwps.microsoft.com/wp-content/uploads/2024/04/GDPR-and-Generative-AI-A-Guide-for-the-Public-Sector-FINAL.pdf)  
 [Microsoft AI Red Team](https://aka.ms/ai-red-team)   
 [Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)  
 [OpenAI Tokenizer](https://platform.openai.com/tokenizer) 
