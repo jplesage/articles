@@ -32,8 +32,7 @@
 ## AI Security
 [Book "Not with a bug but with a sticker"](https://www.ram-shankar.com/)  
 [Exploring the Dark Side of AI: Advanced Phishing
-Attack Design and Deployment Using ChatGPT
-](https://mkorczynski.com/CNS2023Begou.pdf)    
+Attack Design and Deployment Using ChatGPT](https://mkorczynski.com/CNS2023Begou.pdf)    
 [Gandalf by Lakera](https://gandalf.lakera.ai/)   
 [GDPR and Generative AI a guide for the public sector](https://wwps.microsoft.com/wp-content/uploads/2024/04/GDPR-and-Generative-AI-A-Guide-for-the-Public-Sector-FINAL.pdf)  
 [Microsoft AI Red Team](https://aka.ms/ai-red-team)   
