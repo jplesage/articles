@@ -30,6 +30,7 @@
   [Prompt Buddy](https://github.com/stuartridout/promptbuddy)   
 
 ## AI Security
+[Announcing new tools in Azure AI to help you build more secure and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/)   
 [Book "Not with a bug but with a sticker"](https://www.ram-shankar.com/)  
 [Exploring the Dark Side of AI: Advanced Phishing
 Attack Design and Deployment Using ChatGPT](https://mkorczynski.com/CNS2023Begou.pdf)    
