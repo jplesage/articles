@@ -15,6 +15,7 @@
 [Automatic Provisioning and Deprovisioning of Copilot for Security Capacity Unit](https://gotoguy.blog/2024/04/05/automatic-provisioning-and-deprovisioning-of-copilot-for-security-capacity-unit/)   
 [Copilot for Security economic study](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)   
 [Create an Alert in Sentinel if someone enables Copilot for Security](https://socautomators.substack.com/p/create-an-alert-in-sentinel-if-someone)  
+[Demo Videos](https://www.youtube.com/playlist?list=PLmAptfqzxVEW6hqgkKT_a4LNnBQm4omQq)   
 [Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://thoor.tech/Copilot-for-Security-deploy-and-destroy/)    
 [Get the most out of Microsoft Copilot for Security with good prompt engineering](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)   
 [Linkedin Community](https://www.linkedin.com/groups/14345161/)  
