@@ -27,8 +27,10 @@
 
    
 
-## Tools 
-  [Prompt Buddy](https://github.com/stuartridout/promptbuddy)   
+## Tools  
+  [Copilot for Security SCU Optimizer](https://github.com/LSLWatson/CopilotforSecurity/tree/main/Copilot_For_Security_Optimizer)   
+  [Prompt Buddy](https://github.com/stuartridout/promptbuddy)  
+
 
 ## AI Security
 [Announcing new tools in Azure AI to help you build more secure and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/)   
