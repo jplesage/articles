@@ -29,6 +29,8 @@
 
 ## Tools 
   [Prompt Buddy](https://github.com/stuartridout/promptbuddy)   
+  [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net)   
+  
 
 ## AI Security
 [Announcing new tools in Azure AI to help you build more secure and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/)   
