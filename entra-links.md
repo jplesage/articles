@@ -49,6 +49,7 @@ Quick link to this page: https://aka.ms/entra-links
 [jwt token decoder](https://jwt.ms)  
 [MFA Templates](https://aka.ms/mfatemplates/strongauth)   
 [SAML Toolkit for Azure AD](https://samltoolkit.azurewebsites.net/)  
+[Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net)    
 [Token Tactics v2](https://github.com/f-bader/TokenTacticsV2)     
 [Use Maester to Monitor Microsoft 365 Security Settings](https://o365reports.com/2024/04/13/use-maester-to-monitor-microsoft-365-security-settings/)   
 
