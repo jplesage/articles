@@ -3,7 +3,7 @@
 Quick link to this page: https://aka.ms/MSAcronyms  
 Might be useful for the ones who want to take [SC-900](https://learn.microsoft.com/en-us/certifications/exams/sc-900) exam    
 For a more complete list you can check [Matt Soseman Microsoft Acronyms Glossary](https://thepartnermasters.com/blog/microsoft-acronyms-glossary) and the great [Pratical Guide to Cybersecurity Acronyms](https://d.img.vision/prbaird/periodic_table_latest.png) from [Paul Baird](https://www.linkedin.com/in/prbaird/)   
-French speaking people can also find [CyberDico from ANSSI](https://cyber.gouv.fr/publications/cyberdico-quest-ce-que-cest)
+French speaking people can also find [CyberDico from ANSSI](https://cyber.gouv.fr/publications/cyberdico-quest-ce-que-cest) and [Dictionnaire Cyber](https://github.com/M82-project/Dictionnaire_Cyber/tree/main)   
 
 ## Products
 Acronym | Meaning | Link |
