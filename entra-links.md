@@ -47,6 +47,7 @@ Quick link to this page: https://aka.ms/entra-links
 [France Connect Connector (french initiative)](https://aka.ms/FranceConnect)  
 [Identity Powertoys (Non Microsoft)](https://idpowertoys.com)   
 [jwt token decoder](https://jwt.ms)  
+[Maester Microsoft Security Test Automation Framework](https://maester.dev/)    
 [MFA Templates](https://aka.ms/mfatemplates/strongauth)   
 [SAML Toolkit for Azure AD](https://samltoolkit.azurewebsites.net/)  
 [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net)    
