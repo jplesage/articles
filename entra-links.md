@@ -5,11 +5,12 @@ Quick link to this page: https://aka.ms/entra-links
 ## General
 [Doc](https://aka.ms/azureaddocs) | [What's new](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new/) | [Blog](https://aka.ms/azureadblog) | [Discussion](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bd-p/Azure-Active-Directory) | [GitHub](https://github.com/AzureAD)  | [Portal](https://entra.microsoft.com/)  
 [Azure AD Specific Content Youtube](https://www.youtube.com/playlist?list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0)   
+[Entra Feedback](https://aka.ms/entrafeedback)  
 [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards)  
 [Identity Youtube](https://aka.ms/identityyoutube)  
 [Protecting Microsoft 365 from on-premises attacks](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/protect-m365-from-on-premises-attacks)
 [Security community, webinars](http://aka.ms/securitycommunity)  
-[Stack Overflow](https://aka.ms/so/aad)  
+[Stack Overflow](https://aka.ms/so/aad)    
 [What is deprecated in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/what-is-deprecated)  
 [Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)   
 
