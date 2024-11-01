@@ -40,7 +40,8 @@ Quick link to this page: https://aka.ms/entra-links
 [Azure AD Security Configuration Analyzer](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
 [Cloud Group Analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer)   
 [Conditional Access APIs](https://aka.ms/AzureAD_CA_APIS)  
-[Conditional Access as Code](https://aka.ms/caascode) | 
+[Conditional Access as Code](https://aka.ms/caascode) |  
+[Conditional Access Documenter](https://idpowertoys.merill.net/)   
 [DCToolbox](https://github.com/DanielChronlund/DCToolbox) | [Azure AD Conditional Access backup and restore with DCToolbox](https://youtu.be/kyW4L5XMieo)  
 [Entra ID Security Config Analyzer (EIDSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
 [EntraOps Privileged EAM](https://www.cloud-architekt.net/entraops/)    
