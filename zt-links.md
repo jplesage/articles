@@ -26,7 +26,7 @@ Quick link to this page: https://aka.ms/zt-links
 [Livre blanc GIGREF : Vers une philosophie Zero Trust](https://www.cigref.fr/vers-une-philosophie-zero-trust-une-rupture-dans-la-continuite-pour-la-securite-des-applications)
 [Zero Trust Mindmap](https://aka.ms/zero-trust-mindmap)   
 [Zero Trust Illustrations for IT architects and implementers](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-tech-illus)   
-[Zero Trust Partner Kit](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-partner-kit)    
+[Zero Trust Partner Kit](https://aka.ms/zero-trust-partner-kit)    
 [Zero Trust Lab Guide](https://ztlabguide.com/)   
 
 
