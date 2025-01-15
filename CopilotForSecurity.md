@@ -3,10 +3,10 @@
 
 
 ## General
-[Doc](https://learn.microsoft.com/en-us/security-copilot/) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog) | [Github](https://github.com/Azure/Copilot-For-Security/tree/main) | 
+[Doc](https://learn.microsoft.com/en-us/security-copilot/) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog) | [Github](https://aka.ms/SecurityCopilotGitHubRepo) | 
 [Partner](https://securitypartners.transform.microsoft.com/security-copilot) | [Portal](https://securitycopilot.microsoft.com/)  
 [Security community, webinars](http://aka.ms/securitycommunity)  
-[Security Copilot Ninja training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)    
+[Copilot for Security Ninja training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)    
 
 
 
