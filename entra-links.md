@@ -57,6 +57,11 @@ Quick link to this page: https://aka.ms/entra-links
 [Token Tactics v2](https://github.com/f-bader/TokenTacticsV2)     
 [Use Maester to Monitor Microsoft 365 Security Settings](https://o365reports.com/2024/04/13/use-maester-to-monitor-microsoft-365-security-settings/)   
 
+
+## Microsoft Entra Global Secure Access
+[Microsoft Entra Global Secure Access Labs for infrastructure](https://github.com/Dayzure/entra-gsa-labs)     
+
+
 ## Privileged Identity Management
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/) | [Portal](https://aka.ms/PIM/)  
 [Securing Privileged Access](https://aka.ms/spa)  
@@ -67,7 +72,7 @@ Quick link to this page: https://aka.ms/entra-links
 [Doc](https://docs.microsoft.com/en-us/azure/active-directory/governance/)  |  [Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/make-azure-ad-identity-governance-work-for-you/ba-p/2810643)  
 [Entra ID Governance training Hub](https://github.com/microsoft/EntraIDGovernance-Training)   
 
-## Azure Active Directory B2C
+## External Identities
 [Doc](https://learn.microsoft.com/en-us/azure/active-directory-b2c/) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) | [GitHub](https://github.com/azure-ad-b2c/samples)
 
 
