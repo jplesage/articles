@@ -1,4 +1,4 @@
-# Copilot for Security links
+# Security Copilot links
 
 
 
@@ -6,28 +6,28 @@
 [Doc](https://learn.microsoft.com/en-us/security-copilot/) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/bg-p/SecurityCopilotBlog) | [Github](https://github.com/Azure/Copilot-For-Security/tree/main) | 
 [Partner](https://securitypartners.transform.microsoft.com/security-copilot) | [Portal](https://securitycopilot.microsoft.com/)  
 [Security community, webinars](http://aka.ms/securitycommunity)  
-[Copilot for Security Ninja training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)    
+[Security Copilot Ninja training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)    
 
 
 
 
 ## Good to know  
-[Automatic Provisioning and Deprovisioning of Copilot for Security Capacity Unit](https://gotoguy.blog/2024/04/05/automatic-provisioning-and-deprovisioning-of-copilot-for-security-capacity-unit/)   
-[Copilot for Security economic study](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)   
-[Create an Alert in Sentinel if someone enables Copilot for Security](https://socautomators.substack.com/p/create-an-alert-in-sentinel-if-someone)  
+[Automatic Provisioning and Deprovisioning of Security Copilot Capacity Unit](https://gotoguy.blog/2024/04/05/automatic-provisioning-and-deprovisioning-of-copilot-for-security-capacity-unit/)   
+[Security Copilot economic study](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)   
+[Create an Alert in Sentinel if someone enables Security Copilot](https://socautomators.substack.com/p/create-an-alert-in-sentinel-if-someone)  
 [Demo Videos](https://www.youtube.com/playlist?list=PLmAptfqzxVEW6hqgkKT_a4LNnBQm4omQq)   
 [Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://thoor.tech/Copilot-for-Security-deploy-and-destroy/)    
 [Get the most out of Microsoft Copilot for Security with good prompt engineering](https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/)   
 [Linkedin Community](https://www.linkedin.com/groups/14345161/)  
-[Microsoft Partner Playbook for Copilot for Security](https://aka.ms/CfSpartnerPlaybook)   
+[Microsoft Partner Playbook for Security Copilot](https://aka.ms/CfSpartnerPlaybook)   
 [Plugin development](https://github.com/SecureHats/security-copilot)  
 [Prompt library by Rod Trent](https://aka.ms/CfSPromptLibrary)  
-[Scheduling Microsoft Copilot for Security Capacities using Logic Apps](https://medium.com/@aaron.hoffmann/scheduling-microsoft-copilot-for-security-capacities-20f4b26f1999)  
-[Scheduling the Provisioning of Capacity (SCUs) for Copilot for Security - Step-by-Step Guide](https://www.linkedin.com/pulse/scheduling-provisioning-capacity-scus-copilot-guide-pescosolido-bffef/)   
+[Scheduling Microsoft Security Copilot Capacities using Logic Apps](https://medium.com/@aaron.hoffmann/scheduling-microsoft-copilot-for-security-capacities-20f4b26f1999)  
+[Scheduling the Provisioning of Capacity (SCUs) for Security Copilot - Step-by-Step Guide](https://www.linkedin.com/pulse/scheduling-provisioning-capacity-scus-copilot-guide-pescosolido-bffef/)   
 
    
 ## Tools  
-  [Copilot for Security SCU Optimizer](https://github.com/LSLWatson/CopilotforSecurity/tree/main/Copilot_For_Security_Optimizer)   
+  [Security Copilot SCU Optimizer](https://github.com/LSLWatson/CopilotforSecurity/tree/main/Copilot_For_Security_Optimizer)   
   [Prompt Buddy](https://github.com/stuartridout/promptbuddy)  
 
 ## AI Security
