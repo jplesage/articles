@@ -28,6 +28,7 @@ Quick link to this page: https://aka.ms/zt-links
 [Zero Trust Illustrations for IT architects and implementers](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-tech-illus)   
 [Zero Trust Partner Kit](https://aka.ms/zero-trust-partner-kit)    
 [Zero Trust Lab Guide](https://ztlabguide.com/)   
+[Zero Trust Workshop](https://aka.ms/ztworkshop)
 
 
 
