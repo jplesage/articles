@@ -25,6 +25,8 @@
 [Prompt library by Rod Trent](https://aka.ms/CfSPromptLibrary)  
 [Scheduling Microsoft Security Copilot Capacities using Logic Apps](https://medium.com/@aaron.hoffmann/scheduling-microsoft-copilot-for-security-capacities-20f4b26f1999)  
 [Scheduling the Provisioning of Capacity (SCUs) for Security Copilot - Step-by-Step Guide](https://www.linkedin.com/pulse/scheduling-provisioning-capacity-scus-copilot-guide-pescosolido-bffef/)   
+[Security Copilot, Usage & Reports by Antoine Journaux](https://www.linkedin.com/pulse/security-copilot-usage-reports-antoine-journaux-gac0e/)      
+
 
    
 ## Tools  
