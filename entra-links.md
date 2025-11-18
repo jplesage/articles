@@ -13,7 +13,8 @@ Quick link to this page: https://aka.ms/entra-links
 [Security community, webinars](http://aka.ms/securitycommunity)  
 [Stack Overflow](https://aka.ms/so/aad)    
 [What is deprecated in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/what-is-deprecated)  
-[Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)   
+[Workshops : How to sucessfully migrate away from ADFS](https://techcommunity.microsoft.com/t5/community-events-list/microsoft-workshops-how-to-successfully-migrate-away-from-ad-fs/m-p/3668480)    
+[SC-300 on Youtube](https://aka.ms/SC-300onYouTube)   
 
 
 
