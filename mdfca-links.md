@@ -8,7 +8,7 @@ Quick link to this page: https://aka.ms/mdfca-links
 [Microsoft Defender for Cloud Apps Ninja Training](https://aka.ms/mcasninja)   
 [Microsoft 365 Defender News](https://aka.ms/DefenderNews)  
 [Defender for Cloud Apps best practises](https://learn.microsoft.com/en-us/defender-cloud-apps/best-practices)  
-[Defender for Cloud Apps Operational Guide](https://aka.ms/MDAOperationalGuide)    
+[Defender for Cloud Apps Operational Guide ](https://aka.ms/MDAOperationalGuide)    
 [Top 20 Use Cases](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3nibJ)  
 [Top SaaS app use cases](https://aka.ms/SaaSSecurityUseCases)
 

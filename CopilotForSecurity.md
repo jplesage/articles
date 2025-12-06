@@ -14,7 +14,7 @@
 
 
 ## Good to know  
-[Automatic Provisioning and Deprovisioning of Security Copilot Capacity Unit](https://gotoguy.blog/2024/04/05/automatic-provisioning-and-deprovisioning-of-copilot-for-security-capacity-unit/)   
+[Automatic Provisioning and Deprovisioning of Security Copilot Capacity Unit ](https://gotoguy.blog/2024/04/05/automatic-provisioning-and-deprovisioning-of-copilot-for-security-capacity-unit/)   
 [Security Copilot economic study](https://go.microsoft.com/fwlink/?linkid=2262764&clcid=0x409&culture=en-us&country=us)   
 [Create an Alert in Sentinel if someone enables Security Copilot](https://socautomators.substack.com/p/create-an-alert-in-sentinel-if-someone)  
 [Demo Videos](https://www.youtube.com/playlist?list=PLmAptfqzxVEW6hqgkKT_a4LNnBQm4omQq)   
