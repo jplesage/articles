@@ -4,7 +4,7 @@ Article and reference links
 
 * [Common threats useful links](https://aka.ms/threats-links)  
 * [Microsoft Bastion useful links](https://aka.ms/bastion-links)  
-* [Microsoft Copilot for Security](CopilotForSecurity.md)
+* [Microsoft Security Copilot](CopilotForSecurity.md)
 * [Microsoft Defender for Cloud Apps useful links](mdfca-links.md)
 * [Microsoft Defender for Cloud useful links](https://aka.ms/mdc-links/)
 * [Microsoft Defender for Identity useful links](MDI-links.md)
