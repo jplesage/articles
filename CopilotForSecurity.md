@@ -9,7 +9,7 @@
 [Security Copilot Adoption Hub](https://adoption.microsoft.com/en-us/security-copilot/)   
 [Security Copilot Ninja training](https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/how-to-become-a-microsoft-copilot-for-security-ninja-the/ba-p/4106928)    
 [Security Copilot Video Hub](https://aka.ms/SecurityCopilotVideoHub)   
-
+[Seyfallah Tagrerout Security Copilot Hub](https://security-copilot-hub.vercel.app/)   
 
 
 
