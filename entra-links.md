@@ -27,6 +27,7 @@ Quick link to this page: https://aka.ms/entra-links
 [John Craddock Identity and Access Training](https://www.youtube.com/@john_craddock)   
 [Entra Mindmaps](https://entra.news/p/entra-mind-maps)   
 [Microsoft Entra top content creators to follow](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-top-content-creators-to-follow/ba-p/4085368)   
+[Entra POC Advisor](https://github.com/microsoft/Entra-POCAdvisor)   
 [Multi Tenant User Management](http://aka.ms/multi-tenant-users/)  
 [Securing Azure environments with Azure Active Directory](https://azure.microsoft.com/en-us/resources/securing-azure-environments-with-azure-active-directory/)  
 [Security Operation Guide](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction/)  
