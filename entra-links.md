@@ -47,6 +47,7 @@ Quick link to this page: https://aka.ms/entra-links
 [DCToolbox](https://github.com/DanielChronlund/DCToolbox) | [Azure AD Conditional Access backup and restore with DCToolbox](https://youtu.be/kyW4L5XMieo)  
 [Entra ID Security Config Analyzer (EIDSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md)   
 [EntraOps Privileged EAM](https://www.cloud-architekt.net/entraops/)    
+[Entra RoleLens](https://entrarolelens.aboutcloud.io/)   
 [Error codes](https://login.microsoftonline.com/error)   
 [FIDO2 / passkeys MFA Server](https://github.com/damienbod/MfaServer)   
 [France Connect Connector (french initiative)](https://aka.ms/FranceConnect)  
